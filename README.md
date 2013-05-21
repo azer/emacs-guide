@@ -1,5 +1,3 @@
-This repository explains how to code JavaScript in Emacs.
-
 ### Setup
 ### Movement
 ### Creating Projects
