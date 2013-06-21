@@ -22,7 +22,7 @@ $ emacs
 
 Once you have Emacs open, press `C-x C-f` (Control-x Control-f) buttons to find a file to find a file to open. To create a new file, press `C-x C-f` again, type a filename and `enter`.
 
-
+![](https://dl.dropboxusercontent.com/s/eb9xxqzwydl59fv/emacs-1.png)
 
 ### Movement
 ### Creating Projects
